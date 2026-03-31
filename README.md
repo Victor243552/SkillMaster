@@ -1,11 +1,12 @@
 # SkillMaster
 这是一个本地技能记录工具，不用安装、数据安全、打开即用 能记录技能名称、学习阶段、学习进度 帮你看见自己的学习积累，对抗三分钟热度
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <title>20小时技能管理系统</title>
+  <title>技能管理系统</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <style>
